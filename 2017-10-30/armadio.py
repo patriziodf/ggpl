@@ -62,5 +62,5 @@ def ggpl_libreria(x,spx,y,spy,z,spz,nripiani,nante):
 	return arm
 
 
-VIEW(ggpl_libreria(x=1.5,spx=0.041,y=0.5,spy=0.04,z=1.7,spz=0.1,nripiani=3,nante=4))
+#VIEW(ggpl_libreria(x=1.5,spx=0.041,y=0.5,spy=0.04,z=1.7,spz=0.1,nripiani=3,nante=4))
 
